@@ -7,4 +7,5 @@ namespace ConsoleApplication
     class DemoClass
     {
     }
+    class DemoTest { }
 }
