@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stathe\\source\\repos\\ConsoleApplication\\ConsoleApplication.csproj",
+      "projectUniqueName": "C:\\Users\\stathe\\source\\repos\\GitPracticeRepository\\ConsoleApplication\\ConsoleApplication.csproj",
       "projectName": "ConsoleApplication",
-      "projectPath": "C:\\Users\\stathe\\source\\repos\\ConsoleApplication\\ConsoleApplication.csproj",
+      "projectPath": "C:\\Users\\stathe\\source\\repos\\GitPracticeRepository\\ConsoleApplication\\ConsoleApplication.csproj",
       "packagesPath": "C:\\Users\\stathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stathe\\source\\repos\\ConsoleApplication\\obj\\",
+      "outputPath": "C:\\Users\\stathe\\source\\repos\\GitPracticeRepository\\ConsoleApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
